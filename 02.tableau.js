@@ -1,0 +1,1 @@
+var villes = ['nantes','paris','saint-nazaire','angers','le mans'];
